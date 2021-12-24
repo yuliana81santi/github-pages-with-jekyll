@@ -1,4 +1,7 @@
-2021-12-24-My-Future-Plan.md
+--
+Layout: post
+Title: My Future Plan
+--
 
 my plan for the future
 what happened with my life
